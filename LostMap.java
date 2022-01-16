@@ -2,10 +2,9 @@
 PSEUDOCODE
 1. This is a Kruskal MST problem 
 2. Create a Road class which has the start, end and distance
-3. Copy over code from Prof's lecture
-4. Create a UFDS class
-5. Store the edges in an arraylist and sort it in ascending distance
-6. Process the edges, if no cycle, union and print the start and end. else continue
+3. Create a UFDS class
+4. Store the edges in an arraylist and sort it in ascending distance
+5. Process the edges, if no cycle, union and print the start and end. else continue
 */
 
 import java.io.BufferedReader;
