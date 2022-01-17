@@ -18,7 +18,7 @@ public class WeakVertices {
         for (int i = 0; i < matrix.length; i++) {
             if(matrix[row][i] == 1) { // if there is an edge, check the respective vertices in the adjMatrix == 1
                 for (int j = i + 1; j < matrix.length; j++) { // iterate through the rest of the columns in the row
-                    if(matrix[i][j] == 1 && matrix[j][row] == 1) { // neighbours(Refer to paint drawing)
+                    if(matrix[i][j] == 1 && matrix[j][row] == 1) { 
                         return true;
                     }
                 }
