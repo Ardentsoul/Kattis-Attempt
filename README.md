@@ -1,5 +1,3 @@
 # Kattis-Attempt
 
-Welcome to my repo!
-
-Here are my attempts at some Kattis questions.
+These are my attempts at some Kattis questions to practice data structures and algorithms.
